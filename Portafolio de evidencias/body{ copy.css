@@ -1,0 +1,32 @@
+body{
+    font-family: Arial,Helvetica,sans-serif;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    background-color: #000607;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+.menu li a{
+    text-align: none;
+    color: rgb(255, 240, 250);
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: rgb(226, 201, 226) ;
+}
+h1,h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
